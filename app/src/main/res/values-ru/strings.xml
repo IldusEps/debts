@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Долги</string>
+    <string name="tab_text_1">Записи</string>
+    <string name="tab_text_2">Добавить новый</string>
+    <string name="edit_text_amount">Сумма</string>
+    <string name="edit_text_namePerson">Имя человека</string>
+    <string name="button_text_newEntry">Новая запись</string>
+    <string name="toast_text_added">Добавлено!</string>
+    <string name="snackbar_text_undo">Вернуть</string>
+</resources>

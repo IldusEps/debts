@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">debts</string>
+    <string name="tab_text_1">Entryes</string>
+    <string name="tab_text_2">Add dept</string>
+    <string name="edit_text_amount">Amount</string>
+    <string name="edit_text_namePerson">Name of person</string>
+    <string name="button_text_newEntry">new entry</string>
+    <string name="toast_text_added">Added!</string>
+    <string name="snackbar_text_undo">Undo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
